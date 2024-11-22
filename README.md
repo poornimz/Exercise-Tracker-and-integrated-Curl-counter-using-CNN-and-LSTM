@@ -26,4 +26,4 @@ Step 5.2: Compile & Train the Model
 Step 5.3: Plot Model’s Loss & Accuracy Curves
 
 Step 6: Test the Best Performing Model on YouTube videos   
-Here, instead of step 6 we developed another one real-time activity tracker(exercise decoder file ) which will count respective exercise and the we downloaded the video from there and fed it to input here(for simply testing it with realtime ,unseen data), Finally our model Recognised the correct activity and its working well with good accuracy core. 
+Here, instead of step 6 we developed another one real-time activity tracker(exercise decoder file ) which will count respective exercise and the we downloaded the video from there and fed it to input here(for simply testing it with realtime ,unseen data), Finally our model Recognised the correct activity and its working well with good accuracy score. 
